@@ -96,7 +96,8 @@
                                  </ol>
                               </div>
                            </div>
-                        </div>
+                        </div><br>
+						<span><a href="files/Company Profile.pdf" class="btn btn-primary" target="_blank">Company Profile</a></span>
                      </div>
                   </div>
                </div>
