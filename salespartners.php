@@ -173,6 +173,13 @@
                                     <td>ekdantdrives@outlook.com</td>
                                     <td>+91 99211 02695</td>
                                  </tr>
+                                 <tr>
+                                    <td>West</td>
+                                    <td>Saheel Sales</td>
+                                    <td>Mr Burkul Satish</td>
+                                    <td>saheelsales@gmail.com</td>
+                                    <td>+91 83089 11911</td>
+                                 </tr>
                               </tbody>
                            </table>
                         </div>
@@ -208,10 +215,10 @@
                                  </tr>
                                  <tr>
                                     <td>Chennai</td>
-                                    <td>New Material Movement</td>
-                                    <td>Mr Saravanakumar</td>
-                                    <td>nmmchennai53@gmail.com	</td>
-                                    <td>+91 94452 46228</td>
+                                    <td>Electromech Transmission</td>
+                                    <td>Mr Sathish Sriram R</td>
+                                    <td>classysathish@gmail.com</td>
+                                    <td>+91 99943 66110</td>
                                  </tr>
                                  <tr>
                                     <td>Coimbatore</td>
@@ -222,9 +229,9 @@
                                  </tr>
                                  <tr>
                                     <td>Hyderabad</td>
-                                    <td>Gupta Associates</td>
+                                    <td>AES Sales & Services</td>
                                     <td>Ms. Swati K</td>
-                                    <td>gaassociates.d@gmail.com</td>
+                                    <td>aesss.sld@gmail.com</td>
                                     <td>+91 99857 35976</td>
                                  </tr>
                                  <tr>
@@ -274,13 +281,13 @@
                                     <td>abhijitndeshmukh@gmail.com</td>
                                     <td>+91 99235 99184</td>
                                  </tr>
-                                 <tr>
+                                 <!-- <tr>
                                     <td>Indore</td>
                                     <td>Business Representative</td>
                                     <td>Mr. Bhupesh Gangrade</td>
                                     <td>bhupeshm@gmail.com</td>
                                     <td>+91 75663 33301</td>
-                                 </tr>
+                                 </tr> -->
                               </tbody>
                            </table>
                         </div>
@@ -296,7 +303,8 @@
                      </div>
                      <div id="FOUR" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                         <div class="card-body">
-                           <table class="table table-striped">
+                        <center><p style="padding-top: 20px;">To be updated soon. Please contact sales@gaeyah.com or 8754422004 for more details</p></center>
+                           <!-- <table class="table table-striped">
                               <thead>
                                  <tr>
                                     <th>Location</th>
@@ -315,7 +323,7 @@
                                     <td>+91 94150 55487</td>
                                  </tr>
                               </tbody>
-                           </table>
+                           </table> -->
                         </div>
                      </div>
                   </div>

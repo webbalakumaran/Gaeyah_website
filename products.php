@@ -117,7 +117,7 @@
             <p>Our centralized system of connecting with our customers helps us to gain more insight and research into our products. With immense knowledge of the Indian market, we aspire to deliver solutions at all points of our customer journey. </p>
             <br><br>
             <div class="row d-flex justify-content-center">
-               <div class="col-md-4 text-center">
+               <div class="col-md-3 text-center">
                   <div class="practice-area ftco-animate">
                      <div class="icon d-flex justify-content-center align-items-center">
                         <img src="images/hypoid.png" alt="" style="width:160px;position:relative;top:30px;">
@@ -128,7 +128,7 @@
                      <a href="hypoidgearbox.php" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
                   </div>
                </div>
-               <div class="col-md-4 text-center">
+               <div class="col-md-3 text-center">
                   <div class="practice-area ftco-animate">
                      <div class="icon d-flex justify-content-center align-items-center">
                         <img src="images/wc2.png" alt="" style="width:210px;position:relative;top:25px;">
@@ -137,6 +137,17 @@
                      <h3><a href="wormgearbox.php">Worm gearbox</a></h3>
                      <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
                      <a href="wormgearbox.php" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+                  </div>
+               </div>
+               <div class="col-md-3 text-center">
+                  <div class="practice-area ftco-animate">
+                     <div class="icon d-flex justify-content-center align-items-center">
+                        <img src="images/electric_motor.png" alt="" style="width:175px;position:relative;top:32px;">
+                     </div>
+                     <br><br>
+                     <h3><a href="electricmotor.php">Electric motor</a></h3>
+                     <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
+                     <a href="electricmotor.php" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
                   </div>
                </div>
             </div>

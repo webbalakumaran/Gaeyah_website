@@ -118,8 +118,7 @@
                </div>
                <div class="col-lg-9 services-wrap px-4 pt-5">
                   <div class="row pt-md-3">
-                     <div class=col-md-1></div>
-                     <div class="col-md-5 d-flex align-items-stretch">
+                     <div class="col-md-4 d-flex align-items-stretch">
                         <div class="services text-center">
                            <div class="icon d-flex justify-content-center align-items-center">
                               <img src=images/hypoid.png alt style=width:160px;position:relative;top:30px>
@@ -132,7 +131,7 @@
                            <a href=products.php class="btn-custom d-flex align-items-center justify-content-center"><span class=ion-ios-arrow-round-forward></span></a>
                         </div>
                      </div>
-                     <div class="col-md-5 d-flex align-items-stretch">
+                     <div class="col-md-4 d-flex align-items-stretch">
                         <div class="services text-center">
                            <div class="icon d-flex justify-content-center align-items-center">
                               <img src=images/wc2.png alt style=width:210px;position:relative;top:25px>
@@ -140,6 +139,19 @@
                            <br><br><br>
                            <div class=text>
                               <h3>Worm gearbox</h3>
+                              <br>
+                           </div>
+                           <a href=products.php class="btn-custom d-flex align-items-center justify-content-center"><span class=ion-ios-arrow-round-forward></span></a>
+                        </div>
+                     </div>
+                     <div class="col-md-4 d-flex align-items-stretch">
+                        <div class="services text-center">
+                           <div class="icon d-flex justify-content-center align-items-center">
+                              <img src=images/electric_motor.png alt style=width:210px;position:relative;top:25px>
+                           </div>
+                           <br><br><br>
+                           <div class=text>
+                              <h3>Electric motor</h3>
                               <br>
                            </div>
                            <a href=products.php class="btn-custom d-flex align-items-center justify-content-center"><span class=ion-ios-arrow-round-forward></span></a>

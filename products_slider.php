@@ -11,16 +11,21 @@
    <body>
       <div class=carousel>
          <a class=carousel-item href=#six!><img src=images/hc1.png></a>
-         <a class=carousel-item href=#seven!><img src=images/hc2.png></a>
-         <a class=carousel-item href=#eight!><img src=images/hc3.png></a>
-         <a class=carousel-item href=#nine!><img src=images/hc4.png></a>
-         <a class=carousel-item href=#ten!><img src=images/hc5.png></a>
-         <a class=carousel-item href=#eleven!><img src=images/hc6.png></a>
+         <a class=carousel-item href=#ten!><img src=images/electric_motor.png></a>
          <a class=carousel-item href=#one!><img src=images/wc1.png></a>
+         <a class=carousel-item href=#seven!><img src=images/hc2.png></a>
          <a class=carousel-item href=#two!><img src=images/wc2.png></a>
+         <a class=carousel-item href=#ten!><img src=images/em1.png></a>
+         <a class=carousel-item href=#eight!><img src=images/hc3.png></a>
          <a class=carousel-item href=#three!><img src=images/wc3.png></a>
+         <a class=carousel-item href=#ten!><img src=images/em2.png></a>
+         <a class=carousel-item href=#nine!><img src=images/hc4.png></a>
          <a class=carousel-item href=#four!><img src=images/wc4.png></a>
+         <a class=carousel-item href=#ten!><img src=images/em3.png></a>
+         <a class=carousel-item href=#ten!><img src=images/hc5.png></a>
          <a class=carousel-item href=#five!><img src=images/wc5.png></a>
+         <a class=carousel-item href=#ten!><img src=images/em4.png></a>
+         <a class=carousel-item href=#eleven!><img src=images/hc6.png></a>
          <a class=carousel-item href=#ten!><img src=images/wc6.png></a>
       </div>
       <script>$(document).ready(function(){$(".carousel").carousel();setInterval(function(){$(".carousel").carousel("next")},3000)});</script>
