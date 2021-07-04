@@ -16,17 +16,17 @@
          <div class="row gallery">
             <div class="col-md-4 col-xs-6 thumb">
                <a href=images/e1.png>
-                  <figure><img class="img-fluid img-thumbnail" src=images/e1.png></figure>
+                  <figure><img class="img-fluid img-thumbnail" src=images/e1.PNG></figure>
                </a>
             </div>
             <div class="col-md-4 col-xs-6 thumb">
                <a href=images/e2.png>
-                  <figure><img class="img-fluid img-thumbnail" src=images/e2.png></figure>
+                  <figure><img class="img-fluid img-thumbnail" src=images/e2.PNG></figure>
                </a>
             </div>
             <div class="col-md-4 col-xs-6 thumb">
                <a href=images/e3.png>
-                  <figure><img class="img-fluid img-thumbnail" src=images/e3.png></figure>
+                  <figure><img class="img-fluid img-thumbnail" src=images/e3.PNG></figure>
                </a>
             </div>
          </div>
