@@ -43,7 +43,7 @@
       <link rel=stylesheet href=css/flaticon.css>
       <link rel=stylesheet href=css/icomoon.css>
       <link rel=stylesheet href=css/style.css>
-      <style>.btn-link{color:#ed201f}.btn-link:hover{color:#ed201f}.gear-pic{width:55%}.table-striped tbody tr:nth-of-type(odd){background:transparent}.card-body{padding:0}.gallery{height:1115px}@media only screen and (max-width:768px){.gear-pic{width:100%}.gallery{height:820px}}.btn.btn-primary{margin-top:10px}.form-group{margin-bottom:0}.ftco-navbar-light .navbar-nav>.nav-item>.nav-link{color:black}.active{color:#ed201f!important}@media(min-width:320px) and (max-width:480px){.nav-position{display:none!important}}@media(min-width:481px) and (max-width:767px){.nav-position{display:none!important}}@media(min-width:768px) and (max-width:1024px) and (orientation:landscape){.nav-position{display:none!important}}@media(min-width:768px) and (max-width:1024px){.nav-position{display:none!important}}</style>
+      <style>.btn-link{color:#ed201f}.btn-link:hover{color:#ed201f}.gear-pic{width:55%}.table-striped tbody tr:nth-of-type(odd){background:transparent}.card-body{padding:0}.gallery{height:750px}@media only screen and (max-width:768px){.gear-pic{width:100%}.gallery{height:560px}}.btn.btn-primary{margin-top:10px}.form-group{margin-bottom:0}.ftco-navbar-light .navbar-nav>.nav-item>.nav-link{color:black}.active{color:#ed201f!important}@media(min-width:320px) and (max-width:480px){.nav-position{display:none!important}}@media(min-width:481px) and (max-width:767px){.nav-position{display:none!important}}@media(min-width:768px) and (max-width:1024px) and (orientation:landscape){.nav-position{display:none!important}}@media(min-width:768px) and (max-width:1024px){.nav-position{display:none!important}}</style>
    </head>
    <body>
       <nav class="navbar px-md-0 navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id=ftco-navbar>
@@ -90,7 +90,7 @@
             <div class="row no-gutters slider-text align-items-end justify-content-center">
                <div class="col-md-9 ftco-animate pb-5 text-center my-cover">
                   <h1 class="mb-3 bread">Electric Motor </h1>
-                  <p class=breadcrumbs><span class=mr-2><a href=index.php>Home <i class=ion-ios-arrow-forward></i></a></span> <span class=mr-2><a href=practice-areas.html>Products <i class=ion-ios-arrow-forward></i></a></span> <span>Electric Motor</span></p>
+                  <p class=breadcrumbs><span class=mr-2><a href=index.php>Home <i class=ion-ios-arrow-forward></i></a></span> <span class=mr-2><a href=products.php>Products <i class=ion-ios-arrow-forward></i></a></span> <span>Electric Motor</span></p>
                </div>
             </div>
          </div>
@@ -150,12 +150,12 @@
             </div>
          </div>
          <br>
-         <!-- <div class=container-fluid>
+         <div class=container-fluid>
             <div class=row>
-               <iframe src=worm_gallery.php frameborder=0 width=100% class=gallery></iframe>
+               <iframe src=electric_gallery.php frameborder=0 width=100% class=gallery></iframe>
                <br>
             </div>
-         </div> -->
+         </div>
          <?php //require("hypoid_gallery.php");?>
          <div class=container>
             <h2 class=mb-3>Applications:</h2>
