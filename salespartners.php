@@ -174,7 +174,7 @@
                                     <td>+91 99211 02695</td>
                                  </tr>
                                  <tr>
-                                    <td>West</td>
+                                    <td>Pune</td>
                                     <td>Saheel Sales</td>
                                     <td>Mr Burkul Satish</td>
                                     <td>saheelsales@gmail.com</td>

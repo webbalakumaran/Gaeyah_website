@@ -50,7 +50,7 @@
                   <a class=nav-link href=references.php>Reference</a>
                </li>
                <li class=nav-item>
-                  <a class=nav-link href=salespartners.php>Sales Partner</a>
+                  <a class=nav-link href=salespartners.php>Sales Partners</a>
                </li>
                <li class=nav-item>
                   <a class=nav-link href=contact.php>Contact</a>

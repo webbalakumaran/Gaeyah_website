@@ -22,7 +22,7 @@
                   <li><a href="industry.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Industry</a></li>
                   <li><a href="references.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>References</a></li>
                   <li><a href="news.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>News & Events</a></li>
-                  <li><a href="salespartners.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Sales & Partners</a></li>
+                  <li><a href="salespartners.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Sales Partners</a></li>
                   <li><a href="contact.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Contact</a></li>
                </ul>
             </div>
@@ -34,7 +34,7 @@
                   <ul>
                      <li><a><span class="icon icon-map-marker"></span><span class="text"> No.17/3B, G J Complex, Avadi Main Road, Senneerkuppam, Chennai 600 056, Tamil Nadu.</span></a></li>
                      <li><a><span class="icon icon-phone"></span><span class="text"> +91 8754422004</span></a></li>
-                     <li><a><span class="icon icon-envelope"></span><span class="text">gaeyahsales@gmail.com</span></a></li>
+                     <li><a><span class="icon icon-envelope"></span><span class="text">sales@gaeyah.com</span></a></li>
                      <li><a><img src="images/tax1.svg" alt="" style="background:white;width:23px">&nbsp;&nbsp;&nbsp;&nbsp;<span class="text">33AAVFG7925K1ZR</span></a></li>
                   </ul>
                </div>
